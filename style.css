@@ -1,0 +1,72 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+    background-color: rgba(211, 211, 211, 0.459);
+    font: normal 15pt Arial;
+    
+
+}
+
+header{
+
+    color:rgb(129, 129, 129);
+    text-align: center;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.041);
+    border-radius: 50px;
+    padding: 50px;
+
+
+}
+
+section{
+
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.281);
+    
+}
+#msg{
+
+    text-align: center;
+}
+#img{
+
+    border-radius:200px;
+    max-width: 300px;
+    text-align: center;
+    padding: 100px;
+    
+}
+#message{
+
+    text-align: center;
+    padding: 10px;
+    color: black;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.315);
+    border-radius: 50px;
+}
+
+#mensagem{
+
+    text-align: center;
+    padding: 10px;
+    color: black;
+    border-radius: 50px; 
+}
+
+footer{ 
+    
+    margin-top: 20px;
+    text-align: center;
+    color:rgb(71, 71, 71);
+    text-align: center;
+    font-style: italic;
+  
+}
